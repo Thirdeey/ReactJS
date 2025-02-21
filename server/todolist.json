@@ -1,0 +1,34 @@
+{
+  "todolist": [
+    {
+      "title": "Buy groceries",
+      "description": "Get fruits, vegetables, and snacks for the weeks",
+      "date": "2025-02-22",
+      "id": "9b80"
+    },
+    {
+      "title": "Book Reading",
+      "description": "Complete chapters 5-8 of the novel",
+      "date": "2025-02-23",
+      "id": "47b1"
+    },
+    {
+      "title": "Prepare presentation",
+      "description": "Create slides for work presentation",
+      "date": "2025-02-24",
+      "id": "b8d4"
+    },
+    {
+      "id": "1740144756040",
+      "title": "Birthday",
+      "description": "Go to birthday party",
+      "date": "2025-02-08"
+    },
+    {
+      "id": "1740147189418",
+      "title": "Workout",
+      "description": "Now",
+      "date": "2025-03-07"
+    }
+  ]
+}
